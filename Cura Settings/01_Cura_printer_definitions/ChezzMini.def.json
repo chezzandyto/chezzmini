@@ -8,7 +8,7 @@
         "manufacturer": "Chezz 3DPrinters",
         "file_formats": "text/x-gcode",
         "icon": "icon_ultimaker2",
-        "has_materials": false,
+        "has_materials": true,
 		 "machine_extruder_trains":
         {
             "0": "ChezzMini_extruder_0"
